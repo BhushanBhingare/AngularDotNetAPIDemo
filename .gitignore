@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Dependency directories
+/dist/
+/tmp/
+
+# Logs
+*.log
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Compiled files
+*.js
+*.js.map
+*.css
+*.html
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
